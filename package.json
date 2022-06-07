@@ -1,0 +1,22 @@
+{
+  "name": "open",
+  "version": "1.0.0",
+  "description": "de# open",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFINITY-Test/open.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DFINITY-Test/open/issues"
+  },
+  "homepage": "https://github.com/DFINITY-Test/open#readme",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
